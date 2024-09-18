@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    display: flex;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.boxes {
+    display: flex;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.signup-banner {}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+}
+
+a {
+    text-decoration: none;
+}
